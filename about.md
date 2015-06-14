@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My name is David Barron and I'm a senior at The University of Texas at Austin studying
+My name is David Barron and I'm a senior at the University of Texas at Austin studying
 Computer Science and French.
 
 ### About This Blog
