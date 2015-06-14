@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a senior at The University of Texas at Austin studying Computer Science and French.
 
-### More Information
+### About This Blog
 
-A place to include any other types of information that you'd like to include about yourself.
+The main purpose of this blog is to record weekly entries on my student experience in
+professor Glen Downing's software engineering class. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[david.barron91@gmail.com](mailto:david.barron91@gmail.com)
