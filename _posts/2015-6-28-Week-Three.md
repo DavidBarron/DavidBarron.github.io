@@ -11,4 +11,4 @@ Of course, that fun didn’t last long and as soon as we turned in project 2 we 
 
 ### Tip of the Week
 
-Our Netflix project and using past mean ratings to predict future ratings reminded me of a site I recently came across that dealt with [“Collective Intelligence”](http://unanimousai.com/collective-intelligence-predicted-winners-of-super-bowl-stanley-cup-and-nba-finals/). It’s a bit light on details but there are various blog style entries and videos to watch that I found interesting. 
+Our Netflix project and using past mean ratings to predict future ratings reminded me of a site I recently came across a website that dealt with [“Collective Intelligence”](http://unanimousai.com/collective-intelligence-predicted-winners-of-super-bowl-stanley-cup-and-nba-finals/). It’s a bit light on details but there are various blog style entries and videos to watch that I found interesting. 
