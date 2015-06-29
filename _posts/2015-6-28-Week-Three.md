@@ -9,6 +9,6 @@ The week started out well enough. I was a little worried about our second projec
 
 Of course, that fun didn’t last long and as soon as we turned in project 2 we were already getting our feet wet with project 3. We had a guest speaker come in and talk about spinning up a VM with Rackspace, as well as about his experience working for Rackspace and his life as a software engineer in general. The technical side of the presentation brought back a few painful flashbacks for my Big Data Processing class and having to spin up Hadoop clusters on AWS to run our programs. It took somewhere between ten to fifteen minutes to get some kind of output back, assuming there were no errors in your code. So fingers crossed we won’t have to be going through something like that again.
 
-### Tip of the Week
+### Tip of the Week (But not really)
 
 Our Netflix project and using past mean ratings to predict future ratings reminded me of a site I recently came across a website that dealt with [“Collective Intelligence”](http://unanimousai.com/collective-intelligence-predicted-winners-of-super-bowl-stanley-cup-and-nba-finals/). It’s a bit light on details but there are various blog style entries and videos to watch that I found interesting. 
